@@ -75,3 +75,13 @@ sass:
 
 plugins:
   - jekyll-include-cache
+
+menu:
+  - title: Blog
+    url:   /blog/
+  - title: Projects
+    url:   /projects/
+  - title: Resume
+    url:   /resume/
+  - title: About
+    url:   /about/
