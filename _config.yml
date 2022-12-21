@@ -78,10 +78,8 @@ plugins:
 
 menu:
   - title: Blog
-    url:   /_posts/
+    url:   /blog/
   - title: Projects
     url:   /projects/
-  - title: Resume
-    url:   /resume/
   - title: About
-    url:   /about/
+    url:   /
