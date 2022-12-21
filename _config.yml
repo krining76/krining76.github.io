@@ -78,7 +78,7 @@ plugins:
 
 menu:
   - title: Blog
-    url:   /blog/
+    url:   /_posts/
   - title: Projects
     url:   /projects/
   - title: Resume
