@@ -32,7 +32,7 @@ hydejack:
 
   use_lsi:             true
   cookies_banner:      true
-  advertise:           true
+  advertise:           false
   hide_dates:          false
   hide_last_modified:  false
 
