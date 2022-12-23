@@ -1,9 +1,9 @@
 ---
 layout: list
-title: Abount
-slug: abount
+title: About
+slug: about
 menu: true
 order: 3
 description: >
-  Abount
+  About
 ---
