@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Project1!"
+title:  "[ Project ] First Project (1)"
 ---
 
-# Project
+# [ Project ] First Project (1)
 
 **Hello Project Category**, this is my first Jekyll Project post.
 
