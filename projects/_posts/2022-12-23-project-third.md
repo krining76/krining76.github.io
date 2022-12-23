@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Project3!"
+title:  "[ Project ] Third Project (3)"
+permalink: /projects/2022-12-23-project-third.md
 ---
 
-# Project
+# [ Project ] Third Project (3)
 
 **Hello Project Category**, this is my first Jekyll Project post.
 
